@@ -1,0 +1,11 @@
+django >3.2,<3.3
+python-decouple
+pillow
+djangorestframework
+django-threaded-email
+djangorestframework-simplejwt
+drf-yasg
+django-rest-swagger
+django-mail-templated
+black
+pytest
